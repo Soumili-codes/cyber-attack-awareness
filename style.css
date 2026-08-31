@@ -8,3 +8,36 @@ body{
 body{
     background-color: bisque;
 }
+.contact-section {
+    margin-top: 40px;
+    padding: 25px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.contact-section h2 {
+    color: #ffffff;
+}
+
+.contact-section p {
+    color: #ffffff;
+}
+.suspect-page {
+    background-image: url('attack.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.suspect-content {
+    color: #ffffff;
+    padding: 30px;
+}
+
+.suspect-content h1,
+.suspect-content h2,
+.suspect-content li,
+.suspect-content a {
+    color: #ffffff;
+}
